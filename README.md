@@ -7,7 +7,10 @@
 [![Architecture: Multi-Agent](https://img.shields.io/badge/Architecture-Antigravity%20Multi--Agent-emerald.svg)]()
 [![Compliance: cGMP%20%2F%20ICH%20Q8--Q11](https://img.shields.io/badge/Compliance-cGMP%20%2F%20ICH%20Q8--Q11-purple.svg)]()
 
-BioLitAgent is an enterprise-grade multi-agent platform designed for translational bioprocess scientists, protein engineers, and regulatory CMC leads. It continuously monitors, extracts, classifies, and synthesizes technical literature, global regulatory guidances (FDA, EMA, ICH), and proprietary research documents into client-ready executive digests and cGMP-compliant operational artifacts.
+**⚠️ Project Status: Preliminary Prototype / MVP**  
+*BioLitAgent is currently structured as an advanced MVP and technical demonstration. While core multi-agent orchestration, literature mining loops, and automated compliance artifact generation are fully operational and verified via unit tests, the system is designed as a foundational prototype intended for future production hardening and scale-up.*
+
+BioLitAgent is a multi-agent platform designed for translational bioprocess scientists, protein engineers, and regulatory CMC leads. It continuously monitors, extracts, classifies, and synthesizes technical literature, global regulatory guidances (FDA, EMA, ICH), and proprietary research documents into client-ready executive digests and cGMP-compliant operational artifacts.
 
 ---
 
